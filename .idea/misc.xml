@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/josec/OneDrive/Documentos/IoT/SmartHomeApp/app/src/main/res/layout/activity_main.xml" value="0.2223731884057971" />
+        <entry key="..\:/Users/josec/OneDrive/Documentos/IoT/SmartHomeApp/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/josec/OneDrive/Documentos/IoT/SmartHomeApp/app/src/main/res/layout/activity_main3.xml" value="0.2223731884057971" />
+        <entry key="..\:/Users/josec/OneDrive/Documentos/IoT/SmartHomeApp/app/src/main/res/layout/item_sensor.xml" value="0.4" />
         <entry key="..\:/Users/josec/OneDrive/Escritorio/SmartHomeApp/app/src/main/res/drawable/agregar.xml" value="0.19" />
-        <entry key="..\:/Users/josec/OneDrive/Escritorio/SmartHomeApp/app/src/main/res/layout/activity_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/josec/OneDrive/Escritorio/SmartHomeApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/josec/OneDrive/Escritorio/SmartHomeApp/app/src/main/res/layout/activity_main2.xml" value="0.4" />
         <entry key="..\:/Users/josec/OneDrive/Escritorio/SmartHomeK/app/src/main/res/drawable/agregar.xml" value="0.19" />
         <entry key="..\:/Users/josec/OneDrive/Escritorio/SmartHomeK/app/src/main/res/layout/activity_main.xml" value="0.4" />
       </map>

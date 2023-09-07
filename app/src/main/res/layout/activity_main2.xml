@@ -33,7 +33,9 @@
         android:background="@drawable/agregar"
         android:text="Button"
         app:layout_constraintStart_toEndOf="@+id/etValor"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+
+        />
 
     <Button
         android:id="@+id/bRefresh"
